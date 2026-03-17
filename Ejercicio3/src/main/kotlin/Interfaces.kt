@@ -1,0 +1,3 @@
+interface VehiculoPublico {
+    fun iniciarRuta()
+}
