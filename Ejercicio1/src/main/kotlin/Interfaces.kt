@@ -1,0 +1,3 @@
+interface Informacion {
+    fun mostrarDatos()
+}
