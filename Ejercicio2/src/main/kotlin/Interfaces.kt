@@ -1,0 +1,3 @@
+interface ArticuloVenta {
+    fun mostrarInfo()
+}
